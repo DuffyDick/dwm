@@ -104,7 +104,7 @@ static Key keys[] = {
 	{ MODKEY|ShiftMask,             XK_t,      spawn,          SHCMD("st translate")},
 	{ MODKEY|ShiftMask,             XK_m,      spawn,          SHCMD("st ncmpcpp")},
 	{ MODKEY|ShiftMask,             XK_b,      spawn,          SHCMD("firefox")},
-	{ MODKEY|ShiftMask,             XK_d,      spawn,          SHCMD("discord")},
+	{ MODKEY|ShiftMask,             XK_d,      spawn,          SHCMD("mumble")},
 	{ MODKEY|ShiftMask,             XK_s,      spawn,          SHCMD("powerButton")},
 	{ 0,                XF86XK_AudioPlay,      spawn,          SHCMD("mpc toggle")},
 	{ 0,                XF86XK_AudioNext,      spawn,          SHCMD("mpc next")},
